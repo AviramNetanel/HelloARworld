@@ -1,4 +1,4 @@
 # HelloARworld
 
-![](./README.mp4)
+![](README.mp4)
 
