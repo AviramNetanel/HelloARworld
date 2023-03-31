@@ -2,4 +2,4 @@
 First AR project
 
 
-![screen-gif](./README.gif)
+<img src="./README.gif" alt="My Project GIF" width="500" height="600">
