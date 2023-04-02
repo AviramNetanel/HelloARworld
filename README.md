@@ -1,3 +1,4 @@
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge)
 # Hello AR world
 Simple app for AR introduction:
 
