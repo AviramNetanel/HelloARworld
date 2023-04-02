@@ -1,5 +1,4 @@
 # HelloARworld
-First AR project
 
+![](README.mp4)
 
-![screen-gif](./README.gif)
