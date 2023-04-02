@@ -1,4 +1,4 @@
 # HelloARworld
 
-![](README.gif)
+![screen-gif](./README.gif)
 
