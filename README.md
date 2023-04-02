@@ -1,4 +1,6 @@
-![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge)
+[![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge)](https://img.shields.io/badge/Swift-5.7-orange)
+
+
 # Hello AR world
 Simple app for AR introduction:
 
