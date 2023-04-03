@@ -11,7 +11,9 @@ Learn how to:
 
 ### How to use:
 open the app - and it will start searching for planes.
+
 once a plane was found - the app would put a grid on it.
+
 once you tap on the grid - an earth ball will fall to this spot.
 
 ### Installtion
